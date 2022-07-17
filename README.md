@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @waitwhaa
-- 👀 I’m interested in python coding and I want to get into game dev!
-- 🌱 I’m currently learning python
-- 📫 You can reach me @EhSam#8621 on discord :)
+Hi, my name is Sam Alonso
+I’m currently learning python and expanding my knowledge on game dev, software engineering, and data analysis
+You can reach me here:
+email - waitwhaa39@gmail.com
+instagram - paperbackspinnerrack
+discord - EhSam#8621
 
 <!---
 waitwhaa/waitwhaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
